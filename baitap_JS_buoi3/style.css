@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-group {
+  margin: 20px 0 0 20px;
+  width: 200px;
+}
+
+#btn-submit1,
+#btn-submit2,
+#btn-submit3, 
+#btn-submit4 {
+  margin: 20px 0 0 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
